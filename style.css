@@ -1,0 +1,46 @@
+body {
+	font-family:Arial, sans-serif;
+}
+.circle {
+	background: #d61414;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: #FFF;
+}
+.bracket {
+	font-size: 50px;
+	position: absolute;
+	left: 243px;
+	top: 25px;
+	font-weight: bold;
+	color: #FFF;
+}
+#description .sologan  {
+	text-align: center;
+	margin: 10px;
+	font-weight: bold;
+	font-size: 45px;
+}
+.sologan .first {
+	color: #6ab692;
+}
+.sologan .second {
+	color: #787878;
+}
+.end-line {
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+#description .bold-text {
+	color: #6ab692;
+}
+#description .text {
+	color: #787878;
+}
